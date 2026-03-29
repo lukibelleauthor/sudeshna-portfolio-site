@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ .Title }}</title>
+  {{ partial "extend_head.html" . }}
+
+  <!-- ===== SEO CORE ===== -->
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>{{ .Title }} | Sudeshna Lindeman</title>
+
+<meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}Strategic Transformation Leader delivering finance and technology solutions through structured execution, analytical insight, and human-centered leadership.{{ end }}">
+
+</head>
+
+<body>
+
+  <nav class="navbar">
+    <div class="nav-logo">Sudeshna Lindeman</div>
+    <div class="nav-links">
+      <a href="/">Home</a>
+      <a href="/about/">About</a>
+      <a href="/experience/">Experience</a>
+      <a href="/insights/">Insights</a>
+    </div>
+  </nav>
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+</body>
+</html>
