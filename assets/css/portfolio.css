@@ -309,3 +309,12 @@ a:hover {
   text-align: center;
   font-size: 18px;
 }
+
+.hero-certification {
+  font-size: 1.05rem;
+  letter-spacing: 0.05em;
+  color: #d4af37;
+  margin-top: -10px;
+  margin-bottom: 28px;
+  font-weight: 500;
+}

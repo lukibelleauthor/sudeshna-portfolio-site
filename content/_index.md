@@ -9,6 +9,9 @@ draft = false
        Sudeshna <br>
        Lindeman
     </h1>
+    <p class="hero-certification">
+       Certified ScrumMaster® (CSM®)
+    </p>
     <h2>Strategic Transformation Leader</h2>
     <p class="tagline">The Strategist Who Thinks Like a Storyteller</p>
     <p>
