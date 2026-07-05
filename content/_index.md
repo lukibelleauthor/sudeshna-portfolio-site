@@ -9,10 +9,18 @@ draft = false
        Sudeshna <br>
        Lindeman
     </h1>
-    <p class="hero-certification">
-       Certified ScrumMaster® (CSM®)
-    </p>
-    <h2>Strategic Transformation Leader</h2>
+    
+  <p class="hero-certification hero-certification-primary">
+    Project Management Professional (PMP®)
+  </p>
+
+  <p class="hero-certification">
+    Certified ScrumMaster® (CSM®)
+  </p>
+
+   <h2>Enterprise Transformation<br>
+    AI & Program Leadership
+</h2>
     <p class="tagline">The Strategist Who Thinks Like a Storyteller</p>
     <p>
       Delivering complex finance and technology transformations through structured execution,

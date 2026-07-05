@@ -310,11 +310,366 @@ a:hover {
   font-size: 18px;
 }
 
+.hero-certification-primary {
+    font-size: 1.12rem;
+    color: #d4af37;
+    font-weight: 700;
+    margin-top: -12px;
+    margin-bottom: 6px;
+    letter-spacing: 0.03em;
+}
+
 .hero-certification {
-  font-size: 1.05rem;
-  letter-spacing: 0.05em;
-  color: #d4af37;
-  margin-top: -10px;
-  margin-bottom: 28px;
-  font-weight: 500;
+    font-size: 1.02rem;
+    color: #e6d3a3;
+    margin-top: 0;
+    margin-bottom: 28px;
+    font-weight: 500;
+    letter-spacing: 0.03em;
+}
+
+/* =======================================================
+   PROFESSIONAL CERTIFICATIONS
+======================================================= */
+
+.certifications-section {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 70px 30px;
+}
+
+.certifications-hero {
+    margin-bottom: 70px;
+}
+
+.certifications-hero h1 {
+    color: #e6d3a3;
+    font-size: 54px;
+    margin-bottom: 18px;
+}
+
+.certifications-hero p {
+    max-width: 1050px;
+    color: #d6d6d6;
+    line-height: 1.8;
+    font-size: 20px;
+}
+
+.section-divider {
+    border: none;
+    border-top: 1px solid rgba(212,175,55,.25);
+    margin: 70px 0;
+}
+
+
+/* =======================================================
+   SECTION HEADERS
+======================================================= */
+
+.cert-section h2 {
+    color: #e6d3a3;
+    font-size: 42px;
+    margin-bottom: 18px;
+}
+
+
+/* =======================================================
+   CERTIFICATION GRID
+======================================================= */
+
+.cert-grid {
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(360px,1fr));
+
+    gap:32px;
+
+}
+
+
+/* =======================================================
+   CERTIFICATION CARD
+======================================================= */
+
+.cert-card {
+
+    background:#141414;
+
+    border:1px solid rgba(212,175,55,.18);
+
+    border-radius:18px;
+
+    padding:30px;
+
+    transition:.35s ease;
+
+    box-shadow:0 8px 30px rgba(0,0,0,.30);
+
+    transition:
+      transform .28s ease,
+      border-color .28s ease,
+      box-shadow .28s ease;
+
+}
+
+.cert-card:hover{
+
+    transform:translateY(-8px);
+
+    border-color:#d4af37;
+
+    box-shadow:0 18px 45px rgba(212,175,55,.12);
+
+}
+
+
+/* =======================================================
+   ICON BADGE
+======================================================= */
+
+.cert-icon{
+
+    width:58px;
+
+    height:58px;
+
+    border-radius:50%;
+
+    border:1px solid rgba(212,175,55,.35);
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    font-size:26px;
+
+    margin-bottom:24px;
+
+    background:#1b1b1b;
+
+    transition:.35s;
+
+}
+
+.cert-card:hover .cert-icon{
+
+    border-color:#d4af37;
+
+    background:#222;
+
+    transform:scale(1.06);
+
+}
+
+
+/* =======================================================
+   CARD TYPOGRAPHY
+======================================================= */
+
+.cert-card h3{
+
+    color:#e6d3a3;
+
+    font-size:30px;
+
+    margin-bottom:12px;
+
+    line-height:1.25;
+
+}
+
+.cert-provider{
+
+    color:#d4af37;
+
+    font-weight:700;
+
+    letter-spacing:.02em;
+
+    margin-bottom:20px;
+
+}
+
+.cert-description{
+
+    color:#d6d6d6;
+
+    line-height:1.8;
+
+    margin-bottom:26px;
+
+}
+
+.cert-earned{
+
+    color:#bdbdbd;
+
+    font-style:italic;
+
+}
+
+
+/* =======================================================
+   LEARNING JOURNEY
+======================================================= */
+
+.learning-box{
+
+    background:#141414;
+
+    border:1px solid rgba(212,175,55,.18);
+
+    border-radius:18px;
+
+    padding:40px;
+
+    line-height:1.9;
+
+}
+
+.learning-box h2{
+
+    color:#e6d3a3;
+
+    margin-bottom:20px;
+
+}
+
+.learning-box p{
+
+    color:#d6d6d6;
+
+}
+
+.learning-card {
+    position: relative;
+}
+
+.learning-card:not(:last-child)::after {
+    content: "";
+    display: block;
+    width: 92%;
+    height: 1px;
+    margin: 32px auto 0;
+    background: linear-gradient(
+        to right,
+        transparent,
+        rgba(212,175,55,0.35),
+        transparent
+    );
+}
+
+.learning-status {
+    display: inline-block;
+    padding: 6px 14px;
+    border-radius: 999px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+
+    background: rgba(72,146,255,.12);
+    color: #8ab8ff;
+    border: 1px solid rgba(72,146,255,.35);
+
+    margin-bottom: 20px;
+}
+
+.learning-status.planned {
+
+    background: rgba(212,175,55,.10);
+    color: #d4af37;
+    border: 1px solid rgba(212,175,55,.35);
+
+}
+
+/* =======================================================
+   ROADMAP
+======================================================= */
+
+.roadmap-box{
+
+    margin-top:40px;
+
+    background:#141414;
+
+    border:1px solid rgba(212,175,55,.18);
+
+    border-radius:18px;
+
+    padding:40px;
+
+    line-height:1.9;
+
+}
+
+.roadmap-box h2{
+
+    color:#e6d3a3;
+
+    margin-bottom:20px;
+
+}
+
+.roadmap-box p{
+
+    color:#d6d6d6;
+
+}
+
+
+/* =======================================================
+   BACK LINK
+======================================================= */
+
+.back-link{
+
+    display:inline-block;
+
+    margin-top:60px;
+
+    color:#d4af37;
+
+    text-decoration:none;
+
+    transition:.3s;
+
+}
+
+.back-link:hover{
+
+    color:#f2d775;
+
+    transform:translateX(-4px);
+
+}
+
+
+/* =======================================================
+   MOBILE
+======================================================= */
+
+@media (max-width:768px){
+
+.certifications-hero h1{
+
+font-size:42px;
+
+}
+
+.cert-grid{
+
+grid-template-columns:1fr;
+
+}
+
+.cert-card{
+
+padding:28px;
+
+}
+
 }
