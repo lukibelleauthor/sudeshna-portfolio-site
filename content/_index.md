@@ -11,7 +11,7 @@ draft = false
     </h1>
     
   <p class="hero-certification hero-certification-primary">
-    Project Management Professional (PMP®)
+    Project Management Professional (PMP)®
   </p>
 
   <p class="hero-certification">
