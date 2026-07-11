@@ -27,7 +27,7 @@ to solve complex business challenges.
 
 <div class="cert-icon">🎓</div>
 
-<h3>Project Management Professional (PMP®)</h3>
+<h3>Project Management Professional (PMP)®</h3>
 
 <p class="cert-provider">
 Project Management Institute (PMI)
@@ -242,7 +242,7 @@ cloud technologies, and executive leadership education.
 <h2>Professional Development Roadmap</h2>
 
 <p>
-To maintain my Project Management Professional (PMP®) and
+To maintain my Project Management Professional (PMP)® and
 Certified ScrumMaster® (CSM®) certifications,
 I continually invest in professional education,
 technical training,
