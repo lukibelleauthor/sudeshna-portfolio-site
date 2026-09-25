@@ -153,6 +153,90 @@ Earned • June 2026
 
 </div>
 
+<div class="cert-card">
+
+<div class="cert-icon">🤖</div>
+
+<h3>Learn AI Strategy, Automation, ROI & Governance</h3>
+
+<p class="cert-provider">
+Udemy
+</p>
+
+<p class="cert-description">
+Practical AI strategy and consulting skills covering use-case identification, AI readiness, automation,
+tool and vendor evaluation, implementation roadmaps, ROI, governance, and executive communication.
+</p>
+
+<p class="cert-date">
+Earned • July 2026
+</p>
+
+</div>
+
+<div class="cert-card">
+
+<div class="cert-icon">🤖</div>
+
+<h3>Google Cloud Generative AI Leader Full Course 2026</h3>
+
+<p class="cert-provider">
+Udemy
+</p>
+
+<p class="cert-description">
+Generative AI leadership training covering foundational concepts, Google Cloud AI offerings, Gemini,
+Vertex AI, Agent Builder, output optimization, responsible AI, and business strategy.
+</p>
+
+<p class="cert-date">
+Earned • July 2026
+</p>
+
+</div>
+
+<div class="cert-card">
+
+<div class="cert-icon">🤖</div>
+
+<h3>Master No Code AI Agent Building with 8 Hands-On Projects</h3>
+
+<p class="cert-provider">
+Udemy
+</p>
+
+<p class="cert-description">
+Hands-on AI agent development using Copilot Studio, Azure SQL, REST APIs, RAG, Dataverse, Flows, MCP, knowledge sources,
+connectors, and multi-agent orchestration.
+</p>
+
+<p class="cert-date">
+Earned • September 2026
+</p>
+
+</div>
+
+<div class="cert-card">
+
+<div class="cert-icon">🤖</div>
+
+<h3>Advanced Risk Management 2026: EMV, Decision Trees & Agile</h3>
+
+<p class="cert-provider">
+Udemy
+</p>
+
+<p class="cert-description">
+Advanced quantitative and Agile risk management covering Monte Carlo simulation,
+Expected Monetary Value, decision trees, sensitivity analysis, risk-adjusted delivery, and enterprise risk concepts.
+</p>
+
+<p class="cert-date">
+Earned • September 2026
+</p>
+
+</div>
+
 </div>
 
 <hr class="section-divider">
@@ -166,7 +250,8 @@ Building expertise at the intersection of enterprise transformation,
 Artificial Intelligence, and executive technology leadership.
 Alongside maintaining professional certifications,
 I continue expanding my capabilities through advanced AI strategy,
-cloud technologies, and executive leadership education.
+cloud technologies, executive leadership, risk management, quality,
+and business analysis education.
 </p>
 
 <div class="learning-grid">
@@ -177,16 +262,16 @@ cloud technologies, and executive leadership education.
             Currently Enrolled
    </div>
 
-   <h3>Google Cloud Generative AI Leader</h3>
+   <h3>Master Lean, Six Sigma & PMBOK 8 Quality Standards</h3>
 
   <p class="learning-provider">
             Udemy
   </p>
 
   <p>
-            Developing executive-level understanding of Generative AI adoption,
-            Google Cloud AI capabilities, responsible AI implementation,
-            and enterprise transformation strategies.
+            Advanced quality and process improvement training integrating Lean and Six Sigma,
+            PMBOK 8 quality standards, DMAIC, quality tools, Agile and Hybrid quality practices,
+            and root cause analysis.
   </p>
 
    </div>
@@ -197,16 +282,14 @@ cloud technologies, and executive leadership education.
             Planned
    </div>
 
-   <h3>Certified AI Consultant</h3>
+   <h3>2026 IASSC Green Belt (ICGB) Exam with DMAIC, Lean Tools & ER Workflow Case Study</h3>
 
    <p class="learning-provider">
             Udemy
    </p>
 
    <p>
-            Expanding consulting expertise in AI strategy, solution design,
-            business transformation, client advisory services,
-            and enterprise AI implementation.
+        Planned training in Lean Six Sigma Green Belt methodology, including DMAIC, Lean tools, hypothesis testing, ANOVA, Gage R&R, statistical analysis, process improvement, and an enterprise workflow case study.
    </p>
 
    </div>
@@ -218,18 +301,15 @@ cloud technologies, and executive leadership education.
             Planned
    </div>
 
-   <h3>Certified Chief AI Officer Program</h3>
+   <h3>Essential Business Analysis Techniques</h3>
 
    <p class="learning-provider">
-           AI Strategy & Governance • Udemy
+           Udemy
    </p>
 
    <p>
-          Executive education focused on AI governance,
-          organizational strategy,
-          responsible AI leadership,
-          enterprise policy,
-          and executive decision-making.
+          Business analysis training covering requirements and modeling techniques, user stories, process and data analysis,
+         stakeholder analysis, decision tools, customer journey mapping, and strategic business analysis frameworks.
    </p>
 
    </div>
